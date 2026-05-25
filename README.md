@@ -1,8 +1,5 @@
 # 🎵 Números Primos en la Música
 
-**Desafío Web — INF-111 · UMSA · 2025**  
-Nombre del Estudiante / Grupo
-
 ---
 
 ## ¿Qué problema resuelve?
