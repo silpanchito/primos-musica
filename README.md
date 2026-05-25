@@ -29,5 +29,5 @@ cuántos divisores tiene. Si el contador es exactamente 2, es primo.
 
 ## Enlaces
 
-- 🔗 [Repositorio GitHub](URL_DE_TU_REPO)
+- 🔗 [Repositorio GitHub](https://github.com/silpanchito/primos-musica)
 - 🌐 [Página publicada](https://silpanchito.github.io/primos-musica/)
